@@ -5,8 +5,7 @@
 </template>
 
 <script setup lang="ts">
-import { pokeApi } from "@/shared/api";
-import { onMounted } from "vue";
+
 </script>
 
 <style scoped>
